@@ -40,14 +40,14 @@ const AboutUs = () => {
                       <CountUp start={0} end={12} duration={2} suffix="M" />
                     </span>
 
-                    <p className="counter__title">Patient Around World</p>
+                    <p className="counter__title">Students Around World</p>
                   </div>
                 </div>
 
                 <div className=" d-flex gap-5 align-items-center">
                   <div className="single__counter">
                     <span className="counter">
-                      <CountUp start={0} end={95} duration={2} suffix="M" />
+                      <CountUp start={0} end={10} duration={2} suffix="M" />
                     </span>
 
                     <p className="counter__title">Ideas Raised Funds</p>
